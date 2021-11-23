@@ -2,10 +2,10 @@
 #==============================================================================
 # author          : Pavel Polishchuk
 # date            : 14-08-2019
-# version         : 
-# python_version  : 
+# version         :
+# python_version  :
 # copyright       : Pavel Polishchuk 2019
-# license         : 
+# license         :
 #==============================================================================
 
-__version__ = "0.2.5"
+__version__ = "0.2.7"
